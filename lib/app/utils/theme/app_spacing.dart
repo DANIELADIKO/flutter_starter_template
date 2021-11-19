@@ -1,0 +1,10 @@
+const double kxs = 8.0;
+const double ksm = 10.5;
+const double kbase = 13.5;
+const double klg = 15;
+const double kxl = 17;
+const double k2xl = 20;
+const double k3xl = 23;
+const double k4xl = 25;
+const double k5xl = 28;
+const double k6xl = 32;
